@@ -1,4 +1,4 @@
 <?php
 
-echo "<strong>HELLO MUNDO </strong> IHHHUL DESGRAÇADA";
+echo "<strong>ola mundo </strong> IHHHUL DESGRAÇADA";
 ?>
